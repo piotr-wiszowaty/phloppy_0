@@ -3,6 +3,7 @@ cpld/work/
 cpld/*.xise
 cpld/iseconfig
 cpld/main_html
+pcb/phloppy_0.kicad_pcb-bak
 pcb/sym-lib-table
 uc/main.bin
 uc/main.elf
