@@ -1,0 +1,149 @@
+{
+  "Header":
+  {
+    "GenerationSoftware":
+    {
+      "Vendor":      "KiCad",
+      "Application": "Pcbnew",
+      "Version":     "(5.0.0-rc2-dev-433-g81843c37a)"
+    },
+    "CreationDate":  "2018-08-17T12:44:53+02:00"
+  },
+  "GeneralSpecs":
+  {
+    "ProjectId":
+    {
+      "Name": "phloppy_0",
+      "GUID": "70686C6F7070795F302E6B696361645F",
+      "Revision": "rev?"
+    },
+    "Size":
+    {
+      "X": 110.150,
+      "Y": 55.150
+    },
+    "LayerNumber": 4,
+    "BoardThickness":  1.600
+  },
+  "DesignRules":
+  [
+    {
+      "Layers": "Outer",
+      "PadToPad":  0.200,
+      "PadToTrack":  0.200,
+      "TrackToTrack":  0.200,
+      "MinLineWidth":  0.254,
+      "TrackToRegion":  0.508,
+      "RegionToRegion":  0.508
+    }
+  },
+  {
+    "Layers": "Inner",
+    "Values":
+    {
+      "PadToPad":  0.200,
+      "PadToTrack":  0.200,
+      "TrackToTrack":  0.200,
+      "TrackToRegion":  0.508,
+      "RegionToRegion":  0.508
+    }
+  ],
+  "FilesAttributes":
+  [
+    {
+      "Path":  "phloppy_0-F.Cu.gbr",
+      "FileFunction":  "Copper,L1,Top",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "phloppy_0-In1.Cu.gbr",
+      "FileFunction":  "Copper,L2,Inr",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "phloppy_0-In2.Cu.gbr",
+      "FileFunction":  "Copper,L3,Inr",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "phloppy_0-B.Cu.gbr",
+      "FileFunction":  "Copper,L4,Bot",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "phloppy_0-F.SilkS.gbr",
+      "FileFunction":  "Legend,Top",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "phloppy_0-B.SilkS.gbr",
+      "FileFunction":  "Legend,Bot",
+      "FilePolarity":  "Positive"
+    },
+    {
+      "Path":  "phloppy_0-F.Mask.gbr",
+      "FileFunction":  "SolderMask,Top",
+      "FilePolarity":  "Negative"
+    },
+    {
+      "Path":  "phloppy_0-B.Mask.gbr",
+      "FileFunction":  "SolderMask,Bot",
+      "FilePolarity":  "Negative"
+    },
+    {
+      "Path":  "phloppy_0-Edge.Cuts.gbr",
+      "FileFunction":  "Profile",
+      "FilePolarity":  "Positive"
+    }
+  ],
+  "MaterialStackup":
+  [
+    {
+      "Type":  "Legend",
+      "S_Notes":  "Layer F.SilkS"
+    },
+    {
+      "Type":  "SolderMask",
+      "S_Notes":  "Layer F.Mask"
+    },
+    {
+      "Type":  "Copper",
+      "S_Notes":  "Layer F.Cu"
+    },
+    {
+      "Type":  "Dielectric",
+      "Material":  "FR4",
+      "S_Notes":  "Layers L1/L2"
+    },
+    {
+      "Type":  "Copper",
+      "S_Notes":  "Layer In1.Cu"
+    },
+    {
+      "Type":  "Dielectric",
+      "Material":  "FR4",
+      "S_Notes":  "Layers L2/L3"
+    },
+    {
+      "Type":  "Copper",
+      "S_Notes":  "Layer In2.Cu"
+    },
+    {
+      "Type":  "Dielectric",
+      "Material":  "FR4",
+      "S_Notes":  "Layers L3/L4"
+    },
+    {
+      "Type":  "Copper",
+      "S_Notes":  "Layer B.Cu"
+    },
+    {
+      "Type":  "SolderMask",
+      "S_Notes":  "Layer B.Mask"
+    },
+    {
+      "Type":  "Legend",
+      "S_Notes":  "Layer B.SilkS"
+    }
+  ]
+}
