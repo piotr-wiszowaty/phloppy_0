@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phloppy_0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="dialog_create_image">Create image</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="adf_image_name">empty.adf</string>
+    <string name="raw_image_name">empty.raw.adf</string>
+    <string name="dialog_overwrite_file">File "%1$s" already exists. Overwrite?</string>
+</resources>

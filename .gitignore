@@ -1,0 +1,11 @@
+cpld/work/
+cpld/*.xise
+cpld/iseconfig
+cpld/main_html
+pcb/sym-lib-table
+uc/main.bin
+uc/main.elf
+uc/main.lst
+uc/main.map
+uc/*.o
+wifi/.pioenvs

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pwi.phloppy_0.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_create_empty_adf_image"
+        android:orderInCategory="200"
+        android:title="Create empty ADF image"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_create_empty_raw_image"
+        android:orderInCategory="300"
+        android:title="Create empty raw image"
+        app:showAsAction="never" />
+</menu>

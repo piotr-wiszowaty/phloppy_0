@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="create_adf_image">1</integer>
+    <integer name="create_raw_image">2</integer>
+    <integer name="overwrite_adf_image">3</integer>
+    <integer name="overwrite_raw_image">4</integer>
+</resources>
