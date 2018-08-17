@@ -66,6 +66,7 @@ Software
 Software components:
 - `android/` - Android control application sources
 - `cpld/` - CPLD design files
+- `output/` - APK, JED, Gerbers, microcontroller firmware
 - `pc/` - PC control application sources
 - `uc/` - microcontroller firmware sources
 - `wifi/` - ESP8266 source files
