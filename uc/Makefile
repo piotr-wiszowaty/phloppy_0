@@ -1,3 +1,5 @@
+VERSION ?= 2
+
 TARGET = main
 OBJS = main.o startup_stm32f4.o fmc.o
 
